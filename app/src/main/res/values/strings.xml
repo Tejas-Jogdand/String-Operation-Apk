@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">String Operation</string>
+    <string name="click_here">click here</string>
+    <string name="enter_a_string">Enter a String :</string>
+    <string name="string_operations">String Operations</string>
+    <string name="uppercase">Uppercase</string>
+    <string name="lowercase">Lowercase</string>
+    <string name="right_5_character">Right 5 Character</string>
+    <string name="left_5_character">Left 5 Character</string>
+    <string name="click">Click</string>
+    <string name="output">Output :</string>
+</resources>
